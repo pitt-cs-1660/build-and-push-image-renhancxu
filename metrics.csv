@@ -1,0 +1,6 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:build-and-push-image-440604
+pool_id,github
+project_id,build-and-push-image-440604
+Sun Nov 03 2024 18:51:00 GMT-0500 (Eastern Standard Time),0.006388717589737607
+Sun Nov 03 2024 18:52:00 GMT-0500 (Eastern Standard Time),0.029444101846141883
+Sun Nov 03 2024 18:53:00 GMT-0500 (Eastern Standard Time),0.03083384723078718
